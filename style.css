@@ -4,3 +4,12 @@
   position: relative;
   .transition(.2s ease-in-out left)
 }
+
+#p1{
+  color: #C1455C;
+  text-align: left;
+  justify-content: space-between;
+}
+
+#firstpara1 {color: #C1455C
+}
