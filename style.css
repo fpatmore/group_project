@@ -1,1 +1,6 @@
 .slide {height: 500px, width: 500px}
+.item {
+  display: none;
+  position: relative;
+  .transition(.2s ease-in-out left)
+}
