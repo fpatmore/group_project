@@ -37,9 +37,15 @@
   display: flex;
 }
 
-.container3 {
-    padding: 10px 30px 10px 30px;
-    margin: 10px auto;
-    box-shadow: 0 0 30px rgba(150, 150, 150, 0.25);
-    border-radius: 6px;
+
+  .sandwichpic {
+      justify-content: flex-start;
+      height: 200px;
+      border-radius: 3px;
+  }
+
+  .sandwichpic {
+    height: 100%;
+    flex-direction: column;
+    display: flex;
   }
